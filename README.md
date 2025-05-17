@@ -9,11 +9,11 @@ I like coding, build things, and try new technologies & productivity tools (espe
 
 #### Languages
 
-[![My Skills](https://skillicons.dev/icons?i=ts,py,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,bash)](https://skillicons.dev)
 
 #### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=bash,python,nodejs,react,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,nestjs,django,fastapi)](https://skillicons.dev)
 
 #### Databases & Caching
 
@@ -21,7 +21,7 @@ I like coding, build things, and try new technologies & productivity tools (espe
 
 #### Infrastructure & DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,aws,gcp)](https://skillicons.dev)
 
 #
 
