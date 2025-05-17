@@ -13,7 +13,7 @@ I like coding, build things, and try new technologies & productivity tools (espe
 
 #### Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,astro,react,nestjs,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,python,nodejs,react,nestjs)](https://skillicons.dev)
 
 #### Databases & Caching
 
