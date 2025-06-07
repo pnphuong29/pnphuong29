@@ -1,7 +1,9 @@
 # <img alt="jojo" width="40px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtqanVoZWJwYnhic2Fwcm14Y3diMTRyYWIwZzBuOXRnMXlmaGx6NyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tqj4m9BRURayxQAIW9/giphy.gif"/> Albert Pham
 
 I’m a DEV and Technical PM at my current work.  
-I like coding, build things, and try new technologies & productivity tools (especially tui, cli, self-hosted, etc.)  
+At my free time, I'm a solo indie developer, building my own products and learning new things.
+Wanna to connect for any enquiries, collaborations, or just a chat? 
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/albertpham29/)
 
 #
 
