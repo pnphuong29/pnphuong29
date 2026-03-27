@@ -1,27 +1,114 @@
-# <img alt="jojo" width="40px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtqanVoZWJwYnhic2Fwcm14Y3diMTRyYWIwZzBuOXRnMXlmaGx6NyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/tqj4m9BRURayxQAIW9/giphy.gif"/> Albert Pham
+# 🚀 Albert Phuong
+### AI Engineer | Building Production-Ready AI Systems for Startups
 
-I’m Technical PM and Solution Architect at my current work.  
-At my free time, I'm a solo indie developer, building my own products and learning new things.  
-I also provide consultancy and personal assistance for individuals who want to start their own projects, don't know how to optimize or bother with their task management, workflows, etc or need help with their technical problems.  
-Finding ways to optimize productivity and efficiency, automating repetitive tasks, improving management processes, enhancing team collaboration, streamlining workflows and researching new technologies are my passions.  
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/albertpham29/)
+I help startups design, build, and scale **secure, production-grade AI-powered systems** — fast.
 
-#
+Currently:
+- 🧠 AI Engineer focused on LLM, RAG & backend systems  
+- 🏗 Building AI + DevOps + Security-first architectures  
+- 🎯 Targeting high-impact remote AI roles & startup collaborations  
 
-### :computer: Languages and Tools
+---
 
-#### Management
+## 🔥 What I Do
 
-#### Tech Stacks
+I specialize in:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,bash,nodejs,react)](https://skillicons.dev)
+- LLM integration (OpenAI, RAG systems)
+- AI-powered SaaS backends (FastAPI / Go)
+- AI system architecture & scaling
+- Secure AI deployments (DevSecOps mindset)
+- AI infrastructure & observability
 
-#### Infrastructure & DevSecOps
+I don’t just prototype AI.  
+I build systems that run in production.
 
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,aws,gcp,terraform,github,gitlab)](https://skillicons.dev)
+---
 
-#
+## 🛠 Tech Stack
 
-### :bar_chart: Stats
+### Languages
+- Python
+- Go
+- Bash
+- TypeScript
+- Rust (exploring)
 
-<img src="https://github-readme-stats.vercel.app/api?username=pnphuong29&show_icons=true&theme=tokyonight"/>
+### AI & Backend
+- FastAPI
+- LLM APIs
+- Vector databases
+- RAG architectures
+- REST APIs
+
+### DevOps & Infrastructure
+- Docker
+- Kubernetes
+- CI/CD pipelines
+- AWS / GCP
+- Terraform
+- Logging & monitoring
+- Secure system design
+
+---
+
+## 🧠 2026 Focus
+
+- Building a production-ready AI SaaS starter template
+- Designing scalable RAG architectures
+- AI + DevSecOps integration
+- Performance optimization for AI workloads
+- Helping founders ship AI MVPs fast
+
+---
+
+## 📌 Selected Work
+
+### 🧱 AI SaaS Starter (In Progress)
+Production-ready architecture including:
+- FastAPI backend
+- RAG integration
+- Dockerized deployment
+- CI/CD pipeline
+- Observability setup
+- Secure API design
+
+---
+
+### 🔬 AI Architecture Experiments
+Researching and building:
+- Scalable RAG patterns
+- AI API security hardening
+- Cost optimization strategies
+- AI inference performance tuning
+
+---
+
+## 📝 What I Write About
+
+- Building AI products from scratch
+- AI system architecture decisions
+- DevOps for AI teams
+- Secure AI deployments
+- Developer productivity with AI
+
+(Personal website coming soon)
+
+---
+
+## 🎯 Open For
+
+- Remote AI Engineer roles
+- AI system architecture consulting
+- Startup AI MVP builds
+- Fractional AI engineering support
+
+---
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/albertpham29/
+
+---
+
+> I build secure, scalable AI systems — not demos.
