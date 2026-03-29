@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: validate-mermaid-markdown
+        name: Validate Mermaid diagrams in Markdown
+        entry: scripts/ap_validate_mermaid_markdown.sh
+        language: system
+        pass_filenames: false
+        always_run: true
