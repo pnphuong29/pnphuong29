@@ -1,0 +1,3 @@
+# https://dipakp-docs.readthedocs.io/git-knowledge/git-line-endings/index.html
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto

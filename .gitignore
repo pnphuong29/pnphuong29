@@ -1,0 +1,232 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Dotenv files
+*.env
+.env.*
+# Keep checked-in sample/example env files visible.
+!.env.sample
+!sample.env
+!.env.example
+!example.env
+!*.env.sample
+!*.env.example
+
+# Runtime
+.venv/
+venv/
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*storybook.log
+libpeerconnection.log
+testem.log
+crash.log
+
+# Terraform files
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Ignore any .tfvars files that are generated automatically for each Terraform run. Most
+# .tfvars files are managed as part of configuration and so should be included in
+# version control.
+#
+# example.tfvars
+
+# Ignore override files as they are usually used to override resources locally and so
+# are not checked in
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include override files you do wish to add to version control using negated pattern
+# !example_override.tf
+
+# Include tfplan files to ignore the plan output of command: terraform plan -out=tfplan
+# example: *tfplan*
+
+# IDEs and editors
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+!.vscode/*
+!.vscode/mcp*.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.vscode-test/*
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Javascript
+.pnp/
+.pnp.*
+**/.yarn/install-state.gz
+
+# Nodejs
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Dart / Flutter
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+
+# Flutter Native build & caches
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/app.zip
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.*
+**/.symlinks/
+**/Pods/
+
+# Android
+**/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+**/android/.gradle
+**/android/local.properties
+**/android/app/build
+**/android/captures/
+**/android/app/release
+**/android/app/debug
+**/android/app/profile
+*.keystore
+
+# macOS
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Flutter/ephemeral
+**/macos/Runner/Configs/AppInfo.xcconfig
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.dSYM/
+
+# Linux
+**/linux/flutter/ephemeral/
+**/linux/flutter/generated_plugin_registrant.cc
+
+# Windows
+**/windows/flutter/ephemeral/
+**/windows/flutter/generated_plugin_registrant.cc
+**/windows/CMakeLists.txt.user
+
+# Web
+**/lib/generated_plugin_registrant.dart
+
+# App symbols and obfuscation
+app.*.symbols
+app.*.map.json
+
+# Caches & Builds
+.temp/
+.expo/
+.cache/
+.next/
+.vercel/
+.turbo/
+.astro/
+.nx/cache/
+.nx/workspace-data/
+.pytest_cache/
+.atom/
+.build/
+.buildlog/
+.pre-commit-trivy-cache/
+.history/
+.svn/
+.swiftpm/
+**/__pycache__/
+**/.sass-cache/
+**/node_modules/
+**/.nyc_output/
+**/out-tsc/
+tmp/
+pnpm/
+build/
+dist/
+dist-ssr/
+target/
+bin/
+out/
+migrate_working_dir/
+src/content/.astro/*
+storybook-static/
+# If a package manager directory is broadly ignored, unignore both the kept
+# subdirectory and its descendants so nested workspaces remain trackable.
+**/.yarn/*
+!**/.yarn/patches
+!**/.yarn/patches/**
+!**/.yarn/plugins
+!**/.yarn/plugins/**
+!**/.yarn/releases
+!**/.yarn/releases/**
+!**/.yarn/sdks
+!**/.yarn/sdks/**
+!**/.yarn/versions
+!**/.yarn/versions/**
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.class
+*.pyc
+*.swp
+*.pem
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+connect.lock
+**/coverage/
+backups/
+uploads/
+test-results/
+test-outputs/
+playwright-report/
+.vagrant/
+
+# Others
